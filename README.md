@@ -7,36 +7,36 @@ We are **Bengal Blazers**, a passionate team of developers, learners, and innova
 ## 👥 Team Members
 
 ### 🔹 Sayan Dutta
-- 💼 [LinkedIn](https://linkedin.com/in/sayan-dutta) *(replace with actual link)*
-- 🛠️ [GitHub](https://github.com/sayandutta2001) *(replace with actual link)*
+- 💼 [LinkedIn](https://linkedin.com/in/sayan-dutta)
+- 🛠️ [GitHub](https://github.com/sayandutta2001)
 - 🌐 [Portfolio/Other](#)
 
 ---
 
 ### 🔹 Tousif Azim
-- 💼 [LinkedIn](https://linkedin.com/in/tousif-azim) *(replace with actual link)*
-- 🛠️ [GitHub](https://github.com/tousifazim) *(replace with actual link)*
+- 💼 [LinkedIn](https://linkedin.com/in/tousif-azim)
+- 🛠️ [GitHub](https://github.com/tousifazim)
 - 🌐 [Portfolio/Other](#)
 
 ---
 
 ### 🔹 Ranjan Chapraborty
-- 💼 [LinkedIn](https://linkedin.com/in/ranjan-chapraborty) *(replace with actual link)*
-- 🛠️ [GitHub](https://github.com/ranjan-chapraborty) *(replace with actual link)*
+- 💼 [LinkedIn](https://linkedin.com/in/ranjan-chapraborty)
+- 🛠️ [GitHub](https://github.com/ranjan-chapraborty)
 - 🌐 [Portfolio/Other](#)
 
 ---
 
 ### 🔹 Shreejita Biswas
-- 💼 [LinkedIn](https://linkedin.com/in/shreejita-biswas) *(replace with actual link)*
-- 🛠️ [GitHub](https://github.com/shreejitabiswas) *(replace with actual link)*
+- 💼 [LinkedIn](https://linkedin.com/in/shreejita-biswas)
+- 🛠️ [GitHub](https://github.com/shreejitabiswas)
 - 🌐 [Portfolio/Other](#)
 
 ---
 
 ### 🔹 Surajit
-- 💼 [LinkedIn](https://linkedin.com/in/surajit) *(replace with actual link)*
-- 🛠️ [GitHub](https://github.com/surajitdev) *(replace with actual link)*
+- 💼 [LinkedIn](https://linkedin.com/in/surajit)
+- 🛠️ [GitHub](https://github.com/surajitdev)
 - 🌐 [Portfolio/Other](#)
 
 ---
