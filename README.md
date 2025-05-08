@@ -7,7 +7,7 @@ We are **Bengal Blazers**, a passionate team of developers, learners, and innova
 ## 👥 Team Members
 
 ### 🔹 Sayan Dutta
-- 💼 [LinkedIn](https://linkedin.com/in/sayan-dutta)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sayandutta8653128442/)
 - 🛠️ [GitHub](https://github.com/sayandutta2001)
 - 🌐 [Portfolio/Other](#)
 
